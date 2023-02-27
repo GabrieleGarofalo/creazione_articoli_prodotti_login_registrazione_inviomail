@@ -1,0 +1,87 @@
+.corpo{
+    padding: 20px;
+}
+
+.navbar{
+    background-color: black;
+    border: outset 8px red;
+}
+
+
+
+.nav-link{
+    color:white;
+    display: inline-block;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+    color: red;
+    border-bottom: 2px solid red;
+}
+
+.footer{
+    background-color: black;
+}
+
+body{
+    background-color: #212529;
+}
+
+.bg-title{
+    background-color: #212529;
+}
+
+.colore-testo{
+    color:red;
+}
+
+.card:hover{
+    border-color: red;
+    background-color: black;
+    transform: scale(1.06);
+    transition: all 0.7s;
+}
+
+.card-body{
+    color:red;
+    background-color:black;
+}
+
+.btn{
+    display: inline-block;
+    background-color: red;
+    color: black;
+    border-color: red;
+    border-radius: 15px;
+}
+
+.btn:hover,
+.btn:focus{
+    background-color: #212529;
+    color: black;
+}
+
+.btn-dettagli{
+    padding-top: 2px;
+    text-align: center;
+}
+
+#logo{
+    width:80px;
+}
+
+
+
+
+.radius{
+    border-radius: 20px;
+    border: solid grey 0px;
+
+
+}
+
+
+
+
+
